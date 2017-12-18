@@ -1,3 +1,5 @@
+> A copy of tensorflow/models/research/slim
+
 # TensorFlow-Slim image classification model library
 
 [TF-slim](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/slim)
